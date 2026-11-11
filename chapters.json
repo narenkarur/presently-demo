@@ -1,0 +1,55 @@
+{
+  "chapters" : [
+    {
+      "description" : "daily usage, with morning and evening windows",
+      "end" : 5.2463398809018349,
+      "start" : 0,
+      "title" : "app & website time"
+    },
+    {
+      "description" : "see your usage history and weekly totals in hours",
+      "end" : 10.238636472950812,
+      "start" : 5.2463398809018349,
+      "title" : "your week"
+    },
+    {
+      "description" : "compare shared usage and see how recent it is",
+      "end" : 18.224979898203976,
+      "start" : 10.238636472950812,
+      "title" : "friends"
+    },
+    {
+      "description" : "group comparisons and shared challenges",
+      "end" : 36.811118125915527,
+      "start" : 18.224979898203976,
+      "title" : "circles"
+    },
+    {
+      "description" : "choose a symbol for each group",
+      "end" : 44.59819296131964,
+      "start" : 36.811118125915527,
+      "title" : "16 circle icons"
+    },
+    {
+      "description" : "set a usage limit and choose when it ends",
+      "end" : 57.040064231209136,
+      "start" : 44.59819296131964,
+      "title" : "solo challenges"
+    },
+    {
+      "description" : "invite someone and add a custom prize",
+      "end" : 69.065440634022593,
+      "start" : 57.040064231209136,
+      "title" : "challenge a friend"
+    },
+    {
+      "description" : "app & website time, with friends or on your own",
+      "end" : 76.119726863805795,
+      "start" : 69.065440634022593,
+      "title" : "presently"
+    }
+  ],
+  "duration" : 76.119726863805795,
+  "height" : 800,
+  "width" : 1280
+}
